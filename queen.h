@@ -1,11 +1,5 @@
-#include<stdio.h>
-
-#include<math.h>
-
 #include<iostream>
-
 using namespace std;
-
-int arr[30],counter=0;
-
-void queen(int b);
+#define N 4
+bool checkSolution();
+bool solveNQueen(int board[N][N], int col);
