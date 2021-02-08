@@ -1,5 +1,5 @@
 #include "queen.h"
-
+#include "Q_place.h"
 void queen(int b) {
 
 int q=1;

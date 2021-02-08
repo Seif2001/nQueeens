@@ -1,5 +1,5 @@
 #include  "Q_place.h"
-int arr[30],counter=0;
+using namespace std;
 
 int Q_place(int pos) {
 

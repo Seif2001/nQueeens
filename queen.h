@@ -5,7 +5,6 @@
 #include<iostream>
 
 using namespace std;
-
-int arr[30],counter=0;
+int arr[30], counter = 0;
 
 void queen(int b);
